@@ -18,10 +18,10 @@ A real-time computer vision project that detects **lane lines** and **vehicles**
 ---
 
 ## 🧪 Demo
+[
+> (https://youtu.be/_daszrIj7CM)
 
-> Replace with your own video or screen recording
 
-![Detection Output](assets/demo.gif)
 
 ---
 
