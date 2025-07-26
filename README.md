@@ -17,8 +17,7 @@ A real-time computer vision project that detects **lane lines** and **vehicles**
 
 ---
 
-## 🧪 Demo
-[
+## 🧪 Demo Video:
 > (https://youtu.be/_daszrIj7CM)
 
 
